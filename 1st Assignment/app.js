@@ -2,11 +2,29 @@
 
 // alert("Welcome");
 
+/* **************************************** */
+
 // Question 2
 
 // alert("Error! Please enter a valid password");
 
+/* **************************************** */
+
 //Question 3
 
-alert("Welcome to JS land page");
-alert("Happy Coding");
+// alert("Welcome to JS land page.... \n Happy Coding!");
+
+/* ***************************************** */
+
+//Question 4
+
+// alert("Welcome to JS Land...");
+
+/* ***************************************** */
+
+//Question 5
+
+// alert("Happy Coding!");
+
+/* ***************************************** */
+
